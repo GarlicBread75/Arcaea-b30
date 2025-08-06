@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>eb08a8ac-b474-42fc-9b03-6b033d82ba60</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>sandbox.py</StartupFile>
+    <StartupFile>Scripts\get jacket arts.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,14 +21,45 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="notes.txt" />
-    <Compile Include="Arcaea_b30.py" />
-    <Compile Include="sandbox.py" />
+    <Compile Include="Scripts\rename jacket arts.py" />
+    <Compile Include="Text Files\notes.txt" />
+    <Compile Include="Scripts\Arcaea_b30.py" />
+    <Compile Include="Scripts\get jacket arts.py" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="chart data.csv" />
+    <Content Include="Csv Files\chart data.csv" />
+    <Content Include="Csv Files\user data.csv" />
     <Content Include="IMG_2942.png" />
-    <Content Include="songs.txt" />
+    <Content Include="Paul Sorcery\Extractor + Downloader\index.html" />
+    <Content Include="Paul Sorcery\Extractor + Downloader\script.js" />
+    <Content Include="Paul Sorcery\Extractor + Downloader\styles.css" />
+    <Content Include="Paul Sorcery\Extractor\index.html" />
+    <Content Include="Paul Sorcery\Extractor\script.js" />
+    <Content Include="Paul Sorcery\Extractor\styles.css" />
+    <Content Include="Sceneries\beyond world.png" />
+    <Content Include="Sceneries\event world.png" />
+    <Content Include="Sceneries\world 1.png" />
+    <Content Include="Sceneries\world 2.png" />
+    <Content Include="Sceneries\world 3.png" />
+    <Content Include="Sceneries\world 4.png" />
+    <Content Include="Sceneries\world 5.png" />
+    <Content Include="Sceneries\world 6.png" />
+    <Content Include="Sceneries\world 7.png" />
+    <Content Include="Sceneries\world 8.png" />
+    <Content Include="Sceneries\world 9.png" />
+    <Content Include="Text Files\extracted links.txt" />
+    <Content Include="Text Files\jacket arts.txt" />
+    <Content Include="Text Files\songs.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Csv Files\" />
+    <Folder Include="Jacket Arts\" />
+    <Folder Include="Paul Sorcery\" />
+    <Folder Include="Paul Sorcery\Extractor + Downloader\" />
+    <Folder Include="Paul Sorcery\Extractor\" />
+    <Folder Include="Text Files\" />
+    <Folder Include="Sceneries\" />
+    <Folder Include="Scripts\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
