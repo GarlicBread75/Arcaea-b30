@@ -1,23 +1,22 @@
-local database .csv:
+chart_data.csv:
 - song name
-- chart constant
-- jacket art file name
+- difficulty
+- chart constants
+- single, multi or BYD
 
-user data .csv:
+
+user_data.csv:
+- song name
 - score
 - clear type
-- b30 songs names
 
-calculate and store:
+
+b30.csv:
+- song name
+- jacket art file name
 - difficulty
-- score mark
+- chart constant (calculate whole constant)
+- clear type
+- score (calculate mark)
 - play potential
 - song rank
-
-
-https://arcaea.fandom.com/wiki/Songs_by_Date
-https://www.google.com/search?q=how+to+get+images+from+a+fandom+wiki+with+code&safe=strict&sca_esv=07fba3af1fe20c74&sxsrf=AE3TifPPN1RNjma0Grff_srT0tSF4LiM9Q%3A1754477747861&ei=szSTaKukNNyN9u8P4pjY0Qg&ved=0ahUKEwjrybX3gvaOAxXchv0HHWIMNooQ4dUDCBA&uact=5&oq=how+to+get+images+from+a+fandom+wiki+with+code&gs_lp=Egxnd3Mtd2l6LXNlcnAiLmhvdyB0byBnZXQgaW1hZ2VzIGZyb20gYSBmYW5kb20gd2lraSB3aXRoIGNvZGUyBRAhGKABSJzeAVCmrwFY9NsBcAV4AZABAJgB5AGgAdUOqgEGMC4xMi4xuAEDyAEA-AEBmAISoAKmD8ICChAAGLADGNYEGEfCAgUQIRifBcICBxAhGKABGAqYAwCIBgGQBgiSBwY1LjEyLjGgB8A5sgcGMC4xMi4xuAeLD8IHBjAuMTEuN8gHNw&sclient=gws-wiz-serp
-https://github.com/kbmackenzie/flump
-https://github.com/dilaouid/FandomScraper
-https://www.google.com/search?safe=strict&client=ms-android-xiaomi&sca_esv=07fba3af1fe20c74&udm=7&fbs=AIIjpHxX5k-tONtMCu8aDeA7E5WM_82AnVd-14nBN_HJATcu-L3xGqffAifYVsS9QnTp4SyMSONyaH_FOrO6b1rDKnipR0pK69OZGoMXNRuQXhcqHqMRSoflpPAuIZsmXwqWDx48Icf-PEVY-f-D6I3Xh9GThGCJV_hjwKTNbX9P3Yz5oM43TDQIwPQrLA5BjKTHBItNTokUFl9nJTi2t9bGVvHjESxdwQ&q=how+to+extract+an+image+from+a+site+with+python&sa=X&ved=2ahUKEwi48cu8gPaOAxX8gP0HHfFIDtgQtKgLegQIDBAB&biw=1536&bih=750&dpr=1.25&safe=strict
-https://www.geeksforgeeks.org/pandas/reading-csv-files-in-python/
