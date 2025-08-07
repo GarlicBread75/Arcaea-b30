@@ -108,9 +108,40 @@ def replace_chars():
         if old != jacket:
             os.rename(jackets+old, jackets+jacket)
 
-jackets = folder+'Jacket Arts\\'
-for jacket in os.listdir(jackets):
-    old = jacket
-    if 'byd' in jacket:
-        jacket = jacket.replace('byd', 'BYD')
-        os.rename(jackets+old, jackets+jacket)
+def read_csv():
+    with open(folder+'Csv Files\\chart data.csv', r'r') as file:
+        i = 0
+        for line in file:
+            thing = line.strip()
+            #if thing.count(',') != 2:
+                #print(thing)
+            i += 1
+            print(f"{i}: {thing}")
+
+def match_song_names():
+    arts = {}
+    keys = []
+    with open(folder+'Csv Files\\chart data.csv', 'r') as file:
+        for line in file:
+            thing = line.strip()
+            end = thing.find(',')
+            song = thing[:end]
+            if song not in keys:
+                arts[song] = 1
+                keys.append(song)
+
+    jackets = folder+'Jacket Arts\\'
+    for jacket in os.listdir(jackets):
+        jacket = jacket[:-4]
+        if jacket in keys:
+            arts[jacket] += 1
+        else:
+            arts[jacket] = 1
+    i = 1
+    for key in keys:
+        if arts[key] < 2:
+            print(f"{key} - {arts[key]}")
+            i += 1
+            if i%5 == 0:
+                print()
+
