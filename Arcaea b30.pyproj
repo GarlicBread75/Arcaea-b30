@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>eb08a8ac-b474-42fc-9b03-6b033d82ba60</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Scripts\get jacket arts.py</StartupFile>
+    <StartupFile>Scripts\jacket arts.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,10 +21,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Scripts\rename jacket arts.py" />
     <Compile Include="Text Files\notes.txt" />
     <Compile Include="Scripts\Arcaea_b30.py" />
-    <Compile Include="Scripts\get jacket arts.py" />
+    <Compile Include="Scripts\jacket arts.py" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Csv Files\chart data.csv" />
@@ -47,8 +46,9 @@
     <Content Include="Sceneries\world 7.png" />
     <Content Include="Sceneries\world 8.png" />
     <Content Include="Sceneries\world 9.png" />
-    <Content Include="Text Files\extracted links.txt" />
+    <Content Include="Text Files\extracted_links.txt" />
     <Content Include="Text Files\jacket arts.txt" />
+    <Content Include="Text Files\non-dupe arts.txt" />
     <Content Include="Text Files\songs.txt" />
   </ItemGroup>
   <ItemGroup>

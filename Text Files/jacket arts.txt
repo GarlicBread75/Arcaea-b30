@@ -47,7 +47,7 @@ https://static.wikia.nocookie.net/iowiro/images/2/2c/Your_voice_so..._feat._Such
 https://static.wikia.nocookie.net/iowiro/images/7/77/Clotho_and_the_stargazer.jpg
 https://static.wikia.nocookie.net/iowiro/images/0/04/Moonlight_of_Sand_Castle.jpg
 https://static.wikia.nocookie.net/iowiro/images/c/c4/Reconstruction.jpg
-https://static.wikia.nocookie.net/iowiro/images/b/b9/Evoltex_(poppi%27n_mix).jpg
+https://static.wikia.nocookie.net/iowiro/images/b/b9/Evoltex_%28poppi%27n_mix%29.jpg
 https://static.wikia.nocookie.net/iowiro/images/9/97/Oracle.jpg
 https://static.wikia.nocookie.net/iowiro/images/c/c9/Aterlbus.jpg
 https://static.wikia.nocookie.net/iowiro/images/7/7d/Ignotus.jpg
@@ -101,7 +101,7 @@ https://static.wikia.nocookie.net/iowiro/images/d/d8/Inkar_usi_3.jpg
 https://static.wikia.nocookie.net/iowiro/images/b/be/Inkar_byd.jpg
 https://static.wikia.nocookie.net/iowiro/images/3/3a/Call_my_name.jpeg
 https://static.wikia.nocookie.net/iowiro/images/1/1b/Suomi.jpg
-https://static.wikia.nocookie.net/iowiro/images/2/25/Bookmaker_(2D_Version).jpg
+https://static.wikia.nocookie.net/iowiro/images/2/25/Bookmaker_%282D_Version%29.jpg
 https://static.wikia.nocookie.net/iowiro/images/5/56/Bookmaker_BYD.jpg
 https://static.wikia.nocookie.net/iowiro/images/3/3a/Illegal_Paradise.jpg
 https://static.wikia.nocookie.net/iowiro/images/4/4e/Maze_No.9.jpg
@@ -121,9 +121,9 @@ https://static.wikia.nocookie.net/iowiro/images/2/2e/Purgatorium_BYD.jpg
 https://static.wikia.nocookie.net/iowiro/images/e/e7/Alexandrite.jpg
 https://static.wikia.nocookie.net/iowiro/images/4/44/Hikari_THB.jpg
 https://static.wikia.nocookie.net/iowiro/images/5/57/Hall_of_Mirrors.jpg
-https://static.wikia.nocookie.net/iowiro/images/9/93/STAGER_(ALL_STAGE_CLEAR)_PST.jpg
-https://static.wikia.nocookie.net/iowiro/images/b/b4/STAGER_(ALL_STAGE_CLEAR)_PRS.jpg
-https://static.wikia.nocookie.net/iowiro/images/7/73/STAGER_(ALL_STAGE_CLEAR)_FTR.jpg
+https://static.wikia.nocookie.net/iowiro/images/9/93/STAGER_%28ALL_STAGE_CLEAR%29_PST.jpg
+https://static.wikia.nocookie.net/iowiro/images/b/b4/STAGER_%28ALL_STAGE_CLEAR%29_PRS.jpg
+https://static.wikia.nocookie.net/iowiro/images/7/73/STAGER_%28ALL_STAGE_CLEAR%29_FTR.jpg
 https://static.wikia.nocookie.net/iowiro/images/0/0f/Linear_Accelerator.jpg
 https://static.wikia.nocookie.net/iowiro/images/f/f8/Tiferet.jpg
 https://static.wikia.nocookie.net/iowiro/images/9/99/Rugie.jpg
@@ -183,7 +183,7 @@ https://static.wikia.nocookie.net/iowiro/images/6/66/Einherjar_Joker.jpg
 https://static.wikia.nocookie.net/iowiro/images/9/98/Einherjar_byd.jpg
 https://static.wikia.nocookie.net/iowiro/images/d/d4/IZANA.jpg
 https://static.wikia.nocookie.net/iowiro/images/e/e9/SAIKYO_STRONGER.jpg
-https://static.wikia.nocookie.net/iowiro/images/4/43/World.execute(me)%3B.jpg
+https://static.wikia.nocookie.net/iowiro/images/4/43/World.execute%28me%29%3B.jpg
 https://static.wikia.nocookie.net/iowiro/images/0/08/BLRINK.jpg
 https://static.wikia.nocookie.net/iowiro/images/4/41/Oblivia.jpg
 https://static.wikia.nocookie.net/iowiro/images/a/a0/Oblivia_byd.jpg
@@ -203,7 +203,7 @@ https://static.wikia.nocookie.net/iowiro/images/d/d2/Gekka.jpg
 https://static.wikia.nocookie.net/iowiro/images/8/8d/Give_Me_a_Nightmare.jpg
 https://static.wikia.nocookie.net/iowiro/images/f/f9/Black_Lotus.jpg
 https://static.wikia.nocookie.net/iowiro/images/9/95/Altale.jpg
-https://static.wikia.nocookie.net/iowiro/images/7/75/Faint_Light_(Arcaea_Edit).jpg
+https://static.wikia.nocookie.net/iowiro/images/7/75/Faint_Light_%28Arcaea_Edit%29.jpg
 https://static.wikia.nocookie.net/iowiro/images/6/69/Feels_So_Right_feat._Renko.jpg
 https://static.wikia.nocookie.net/iowiro/images/5/5d/Scarlet_Cage.jpg
 https://static.wikia.nocookie.net/iowiro/images/2/28/Teriqma.jpg
@@ -263,9 +263,9 @@ https://static.wikia.nocookie.net/iowiro/images/b/b0/Divine_Light_of_Myriad.jpg
 https://static.wikia.nocookie.net/iowiro/images/0/00/Seclusion.jpg
 https://static.wikia.nocookie.net/iowiro/images/3/32/False_Embellishment.jpg
 https://static.wikia.nocookie.net/iowiro/images/f/f0/HIVEMIND.jpg
-https://static.wikia.nocookie.net/iowiro/images/b/bb/Quon_(Noriken).jpg
+https://static.wikia.nocookie.net/iowiro/images/b/bb/Quon_%28Noriken%29.jpg
 https://static.wikia.nocookie.net/iowiro/images/9/9b/With_U.jpg
-https://static.wikia.nocookie.net/iowiro/images/8/8e/Let_you_DIVE%21_(nitro_rmx).jpg
+https://static.wikia.nocookie.net/iowiro/images/8/8e/Let_you_DIVE%21_%28nitro_rmx%29.jpg
 https://static.wikia.nocookie.net/iowiro/images/0/07/Mazy_Metroplex.jpg
 https://static.wikia.nocookie.net/iowiro/images/5/51/GENOCIDER.jpg
 https://static.wikia.nocookie.net/iowiro/images/0/0b/Sheriruth_Laur_Remix.jpg
@@ -289,7 +289,7 @@ https://static.wikia.nocookie.net/iowiro/images/b/ba/Lightsofmuse.jpg
 https://static.wikia.nocookie.net/iowiro/images/1/15/FinalStep.jpg
 https://static.wikia.nocookie.net/iowiro/images/6/68/Haze_of_Autumn.jpg
 https://static.wikia.nocookie.net/iowiro/images/e/eb/Medusa.jpg
-https://static.wikia.nocookie.net/iowiro/images/0/06/Init().jpg
+https://static.wikia.nocookie.net/iowiro/images/0/06/Init%28%29.jpg
 https://static.wikia.nocookie.net/iowiro/images/a/aa/%C3%84vril_-Flicka_i_krans-_PST.jpg
 https://static.wikia.nocookie.net/iowiro/images/0/01/%C3%84vril_-Flicka_i_krans-_PRS.jpg
 https://static.wikia.nocookie.net/iowiro/images/6/62/%C3%84vril_-Flicka_i_krans-_FTR.jpg
@@ -314,7 +314,7 @@ https://static.wikia.nocookie.net/iowiro/images/7/71/PICO-Pico-Translation%21.jp
 https://static.wikia.nocookie.net/iowiro/images/5/5e/DancinonACatsPaw.jpg
 https://static.wikia.nocookie.net/iowiro/images/7/70/%CE%9C.jpg
 https://static.wikia.nocookie.net/iowiro/images/7/7b/San_skia.jpg
-https://static.wikia.nocookie.net/iowiro/images/1/1c/Altair_(feat._%2AspiLa%2A).jpg
+https://static.wikia.nocookie.net/iowiro/images/1/1c/Altair_%28feat._%2AspiLa%2A%29.jpg
 https://static.wikia.nocookie.net/iowiro/images/a/a5/Redraw_the_Colorless_World.jpg
 https://static.wikia.nocookie.net/iowiro/images/a/a6/Trap_Crow.jpg
 https://static.wikia.nocookie.net/iowiro/images/a/a6/PUPA.jpeg
@@ -355,12 +355,12 @@ https://static.wikia.nocookie.net/iowiro/images/8/88/TEmPTaTiON.jpg
 https://static.wikia.nocookie.net/iowiro/images/a/a4/PRIMITIVE_LIGHTS.jpg
 https://static.wikia.nocookie.net/iowiro/images/b/b5/Cosmo_Pop_Funclub.jpg
 https://static.wikia.nocookie.net/iowiro/images/5/55/IMPACT.jpg
-https://static.wikia.nocookie.net/iowiro/images/7/74/Genesis_(Morrigan).jpg
+https://static.wikia.nocookie.net/iowiro/images/7/74/Genesis_%28Morrigan%29.jpg
 https://static.wikia.nocookie.net/iowiro/images/b/b9/Trrricksters%21%21.jpg
 https://static.wikia.nocookie.net/iowiro/images/9/99/Spider%27s_Thread.jpg
 https://static.wikia.nocookie.net/iowiro/images/7/7d/Lost_Emotion_feat._nomico.jpg
 https://static.wikia.nocookie.net/iowiro/images/4/45/GIMMICK.jpg
-https://static.wikia.nocookie.net/iowiro/images/7/78/The_Survivor_(Game_Edit).jpg
+https://static.wikia.nocookie.net/iowiro/images/7/78/The_Survivor_%28Game_Edit%29.jpg
 https://static.wikia.nocookie.net/iowiro/images/6/6a/New_York_Back_Raise.jpg
 https://static.wikia.nocookie.net/iowiro/images/f/fc/Galacticlove.jpg
 https://static.wikia.nocookie.net/iowiro/images/9/9c/Lawlesspoint.jpg
@@ -544,7 +544,7 @@ https://static.wikia.nocookie.net/iowiro/images/1/1b/Suomi.jpg
 https://static.wikia.nocookie.net/iowiro/images/d/d9/Vexaria.jpg
 https://static.wikia.nocookie.net/iowiro/images/6/6a/1F%E2%88%9A.jpg
 https://static.wikia.nocookie.net/iowiro/images/b/b0/Babaroque.jpg
-https://static.wikia.nocookie.net/iowiro/images/2/25/Bookmaker_(2D_Version).jpg
+https://static.wikia.nocookie.net/iowiro/images/2/25/Bookmaker_%282D_Version%29.jpg
 https://static.wikia.nocookie.net/iowiro/images/c/ca/Dandelion.jpg
 https://static.wikia.nocookie.net/iowiro/images/a/a4/Diode.jpg
 https://static.wikia.nocookie.net/iowiro/images/c/c5/FREEF4LL.jpg
@@ -561,13 +561,13 @@ https://static.wikia.nocookie.net/iowiro/images/1/11/Senkyou.jpg
 https://static.wikia.nocookie.net/iowiro/images/0/01/Shades_of_light.jpg
 https://static.wikia.nocookie.net/iowiro/images/8/8d/Snow_white.jpeg
 https://static.wikia.nocookie.net/iowiro/images/c/c2/Vivid_Theory.jpg
-https://static.wikia.nocookie.net/iowiro/images/4/43/World.execute(me)%3B.jpg
+https://static.wikia.nocookie.net/iowiro/images/4/43/World.execute%28me%29%3B.jpg
 https://static.wikia.nocookie.net/iowiro/images/7/78/Blaster.jpg
 https://static.wikia.nocookie.net/iowiro/images/c/cb/Chronostasis.jpg
 https://static.wikia.nocookie.net/iowiro/images/6/68/CROSSOVER.jpg
 https://static.wikia.nocookie.net/iowiro/images/6/61/Cybernecia_Catharsis.jpg
 https://static.wikia.nocookie.net/iowiro/images/3/30/Dreamin_Attraction.jpg
-https://static.wikia.nocookie.net/iowiro/images/7/75/Faint_Light_(Arcaea_Edit).jpg
+https://static.wikia.nocookie.net/iowiro/images/7/75/Faint_Light_%28Arcaea_Edit%29.jpg
 https://static.wikia.nocookie.net/iowiro/images/8/8d/Give_Me_a_Nightmare.jpg
 https://static.wikia.nocookie.net/iowiro/images/a/ab/Goodtek.jpg
 https://static.wikia.nocookie.net/iowiro/images/7/7d/Ignotus.jpg
@@ -739,7 +739,7 @@ https://static.wikia.nocookie.net/iowiro/images/6/63/Gengaozo.jpg
 https://static.wikia.nocookie.net/iowiro/images/0/06/Bassbook.jpg
 https://static.wikia.nocookie.net/iowiro/images/9/9f/Xeraphinite.jpg
 https://static.wikia.nocookie.net/iowiro/images/c/c3/Summer_Fireworks_of_Love.jpg
-https://static.wikia.nocookie.net/iowiro/images/0/06/Init().jpg
+https://static.wikia.nocookie.net/iowiro/images/0/06/Init%28%29.jpg
 https://static.wikia.nocookie.net/iowiro/images/b/b5/GIMME_DA_BLOOD.jpg
 https://static.wikia.nocookie.net/iowiro/images/a/aa/%C3%84vril_-Flicka_i_krans-_PST.jpg
 https://static.wikia.nocookie.net/iowiro/images/0/01/%C3%84vril_-Flicka_i_krans-_PRS.jpg
@@ -751,7 +751,7 @@ https://static.wikia.nocookie.net/iowiro/images/5/5e/DancinonACatsPaw.jpg
 https://static.wikia.nocookie.net/iowiro/images/7/7b/San_skia.jpg
 https://static.wikia.nocookie.net/iowiro/images/a/a6/Trap_Crow.jpg
 https://static.wikia.nocookie.net/iowiro/images/a/a5/Redraw_the_Colorless_World.jpg
-https://static.wikia.nocookie.net/iowiro/images/1/1c/Altair_(feat._%2AspiLa%2A).jpg
+https://static.wikia.nocookie.net/iowiro/images/1/1c/Altair_%28feat._%2AspiLa%2A%29.jpg
 https://static.wikia.nocookie.net/iowiro/images/3/37/Defection.jpg
 https://static.wikia.nocookie.net/iowiro/images/c/c6/Infinite_Strife.jpg
 https://static.wikia.nocookie.net/iowiro/images/7/7f/World_Ender.jpg
@@ -792,8 +792,8 @@ https://static.wikia.nocookie.net/iowiro/images/6/60/Cyanine.jpg
 https://static.wikia.nocookie.net/iowiro/images/c/c7/Stasis_PST.jpg
 https://static.wikia.nocookie.net/iowiro/images/8/89/Stasis_PRS.jpg
 https://static.wikia.nocookie.net/iowiro/images/c/cd/Stasis_FTR.jpg
-https://static.wikia.nocookie.net/iowiro/images/b/bb/Quon_(Noriken).jpg
-https://static.wikia.nocookie.net/iowiro/images/8/8e/Let_you_DIVE%21_(nitro_rmx).jpg
+https://static.wikia.nocookie.net/iowiro/images/b/bb/Quon_%28Noriken%29.jpg
+https://static.wikia.nocookie.net/iowiro/images/8/8e/Let_you_DIVE%21_%28nitro_rmx%29.jpg
 https://static.wikia.nocookie.net/iowiro/images/9/9b/With_U.jpg
 https://static.wikia.nocookie.net/iowiro/images/0/07/Mazy_Metroplex.jpg
 https://static.wikia.nocookie.net/iowiro/images/5/51/GENOCIDER.jpg
