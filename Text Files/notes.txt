@@ -1,3 +1,25 @@
+to-do:
+- calculate play rating
+- sort songs based on play rating and rank them
+- make ui with Qt5
+    - set chart scores window:
+        - select song and chart, then input score
+        - submit button that saves info to "user_data.csv"
+    - generate b30 image:
+        - submit button
+        - data:
+            - calculate average play rating
+            - calculate score mark
+            - calculate whole chart sonstant
+            - calculate #2 - #11 average play rating (as if r10)
+        - image:
+            - separate b30 chart images with relevant info
+            - profile image with player name, choosable banner and potential
+            - random scenery
+            - paste chart and player profile images on scenery image
+
+
+
 chart_data.csv:
 - song name
 - difficulty
@@ -9,6 +31,7 @@ user_data.csv:
 - song name
 - score
 - clear type
+- play rating
 
 
 b30.csv:
@@ -18,5 +41,5 @@ b30.csv:
 - chart constant (calculate whole constant)
 - clear type
 - score (calculate mark)
-- play potential
+- play rating
 - song rank
